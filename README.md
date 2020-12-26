@@ -17,6 +17,7 @@ Interactive python script that reads in raw NMR spectrum to be fit, and any othe
 Generates multiple files which will be used as input for the structure fitting program
 
 3. config.conf
+
 Configuration script with options for structure fitting program
 
 4. structcalc.c
