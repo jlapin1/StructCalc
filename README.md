@@ -23,8 +23,8 @@ Configuration script with options for structure fitting program
 4. structcalc.c
 
 C source code for structure fitting to produce numerous candidate structures by fitting peptide plane orientations to the solid state NMR resonances.
-Needs to read in Ramachandran restraints from the files in the "RAMA" directory. Outputs list of starting orientations and phi/psi dihedral angles
-so that the backbone can be reconstructed. Must be compiled to an executeable before running.
+Makes extensive use of the GSL library. Needs to read in Ramachandran restraints from the files in the "RAMA" directory. Outputs list of starting orientations 
+and phi/psi dihedral angles so that the backbone can be reconstructed. Must be compiled to an executeable before running.
 
 5. structanal.py
 
