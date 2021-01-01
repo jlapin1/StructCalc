@@ -32,4 +32,4 @@ Interactive python script that allows the user to interface with PyRosetta. Allo
 made up of the individual Rosetta scoring terms.
 
 I have also provided 2 files that visually demonstrate aspects of this project: StructCalcAnimation.mp4 illustrates the process of calculating backbone orientations
-from NMR restraints; fit2data.pdf shows the programs 3 dimensional fit for Pf1 coat protein spectra.
+from NMR restraints; fit2data.pdf shows the program's 3 dimensional fit for Pf1 coat protein spectra.
