@@ -30,3 +30,6 @@ and phi/psi dihedral angles so that the backbone can be reconstructed. Must be c
 
 Interactive python script that allows the user to interface with PyRosetta. Allows the filtering of structure results using custom scoring functions
 made up of the individual Rosetta scoring terms.
+
+I have also provided 2 files that visually demonstrate aspects of this project: StructCalcAnimation.mp4 illustrates the process of calculating backbone orientations
+from NMR restraints; fit2data.pdf shows the programs 3 dimensional fit for Pf1 coat protein spectra.
